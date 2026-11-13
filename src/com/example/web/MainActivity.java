@@ -1,4 +1,4 @@
-package com.example.web;
+package webView.loadUrl("https://www.mysite.com");
 
 import android.app.Activity;
 import android.os.Bundle;
